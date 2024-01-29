@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=15iitian" alt="15iitian" /></a> </p>
 
-- 🔭 I’m currently working on [mini_grep project](https://github.com/15IITian/mini-grep)
+- 🔭 I’m currently contributing in [Fedimint](https://github.com/fedimint/fedimint)
 
 - 🌱 I’m currently learning **Rust**
 
